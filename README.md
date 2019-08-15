@@ -6,7 +6,7 @@ The trading app to be deployed is a micro server written in `java` which uses `S
 
 # Docker Architecture Diagram
 
-<img src="assets/docker_arch.PNG" >
+<img src="assets/docker_arch.jpg" >
 
 - Two docker files
   - trading-app
@@ -16,8 +16,8 @@ The trading app to be deployed is a micro server written in `java` which uses `S
 
 # Cloud Architecture Diagram
 
-- - <img src="assets/Cloud_arch.PNG" >
+- - <img src="assets/Cloud_arch.jpg" >
 
 # AWS EB and Jenkins CI/CD Pipeline Diagram
 
-<img src="assets/jenkins_arch.PNG" >
+<img src="assets/jenkins_arch.jpg" >
